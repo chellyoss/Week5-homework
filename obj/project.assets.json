@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lasha\\source\\repos\\ConsoleApp1\\Homework3.csproj",
+      "projectUniqueName": "C:\\Users\\Lasha\\Desktop\\Homework3\\Homework3.csproj",
       "projectName": "Homework3",
-      "projectPath": "C:\\Users\\Lasha\\source\\repos\\ConsoleApp1\\Homework3.csproj",
+      "projectPath": "C:\\Users\\Lasha\\Desktop\\Homework3\\Homework3.csproj",
       "packagesPath": "C:\\Users\\Lasha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lasha\\source\\repos\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Lasha\\Desktop\\Homework3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
